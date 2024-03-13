@@ -14,10 +14,10 @@ Features
 @mui/icons-material: Version 5.15.6 3. Customizable Design
 Tailor the appearance of your cards to match your brand identity and preferences using CSS or Material-UI's theming capabilities.
 
-4. Interactive Elements
+3. Interactive Elements
    Enhance user engagement by incorporating interactive elements like buttons, links, or forms within your cards.
 
-5. JavaScript Functionality
+4. JavaScript Functionality
    Add dynamic behavior and interactivity to your cards using JavaScript code, creating a more engaging and immersive experience.
 
 Libraries Used
